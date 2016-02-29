@@ -1,7 +1,9 @@
 # Assignment: Getting and Cleaning Data Course Project
 
 ## Instructions
+Set current working directory to the path of the project and run `run_analysis.R`.  This will process and merge the data files to yield a clean, unified output file `tidy_output.txt`.  An example output has been provided, and steps to reproduce this transformation are documented in `CodeBook.md`.
 
+## Project Instructions
 The purpose of this project is to demonstrate your ability to collect, work with, and clean a data set.
 
 ## Review criteria
